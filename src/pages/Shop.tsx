@@ -1,7 +1,7 @@
 import t1 from "@/assets/images/t1.png";
 import t2 from "@/assets/images/t2.png";
 import t3 from "@/assets/images/t3.png";
-import ProductCard from "@/components/productCard";
+import ProductCard from "@/components/ProductCard";
 
 const products = [
   { id: 1, name: "T-Shirt", price: 20, image: t1 },
